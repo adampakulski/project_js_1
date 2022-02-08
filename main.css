@@ -1,0 +1,41 @@
+body{
+    background-color: rgba(72, 131, 153, 0.753);
+    
+}
+.cointainer{
+    
+    padding: 30px;
+}
+
+.logo{
+    width: 80px;
+    height: 80px;
+}
+.acountBalance{
+    font-size: 35px;
+    font-weight: 600;
+}
+.main{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+.incomes{
+    border: 2px solid black;
+    padding: 15px;
+    
+}
+.outcomes{
+    border: 2px solid black;
+    padding: 15px;
+    
+}
+.incomeList{
+    display: flex;
+    
+    
+}
+.outcomeList{
+    display: flex;
+    
+}
